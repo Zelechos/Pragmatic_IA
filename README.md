@@ -26,3 +26,8 @@ LinkedIn: https://www.linkedin.com/in/alex-tumiri-huanca-6234b3195/
 
 Puedes personalizar este contenido según tus preferencias y necesidades específicas. ¡Espero que te resulte útil!
 
+**Para ejecutar Jupiter Notebook**
+
+```shell
+python -m notebook
+```
