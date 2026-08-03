@@ -20,6 +20,30 @@ Se alienta a la comunidad de IA y a cualquier persona interesada en el tema a co
 **Contacto**
 Para más información sobre el proyecto o para discutir posibles contribuciones, no dudes en ponerte en contacto con Msc. Alex T.H. a través de los siguientes medios:
 
+**Ambiente**
+Para crear un nuevo ambiente se utiliza el siguiente comando : 
+
+```python
+python3 -m venv .venv
+```
+
+Para activar el ambiente desde una terminal fish se utiliza el siguiente comando :
+
+```python
+source .venv/bin/activate.fish
+```
+Para desactivar el ambiente se utiliza el siguiente comando:
+
+```python
+deactivate
+```
+Para actualizar las despendencias de mi requirements.txt se utiliza el siguiente comando:
+
+```python
+pip frezze > requirements.txt
+``` 
+
+
 Correo electrónico: alextumirihuanca@gmail.com
 LinkedIn: https://www.linkedin.com/in/alex-tumiri-huanca-6234b3195/ 
 
