@@ -29,6 +29,10 @@ graph.set_finish_point("passed")
 
 app = graph.compile()
 
+ascii_art = app.get_graph().draw_ascii()
+print(ascii_art)
+
+
 result1 = app.invoke({"name": "Alice", "score": 85})
 
 print(result1)

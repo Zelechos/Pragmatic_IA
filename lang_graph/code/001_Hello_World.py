@@ -1,6 +1,5 @@
 from typing import TypedDict, Dict
 from langgraph.graph import StateGraph
-from IPython.display import Image, display
 
 
 # This is normal python
@@ -27,9 +26,9 @@ graph.set_finish_point("greeting")  # Set the finish point
 # Compile the Graph
 app = graph.compile()
 
-
-# To see a diagram of graph
-# display(Image(app.get_graph().draw_mermaid_png()))
+# Draw the Graph
+ascii_art = app.get_graph().draw_ascii()
+print(ascii_art)
 
 result = app.invoke({"message": "Argus Aphocraphex"})
 
