@@ -13,32 +13,25 @@ def odd_node(state: State):
     return {"message": "The number is " + str(state["number"]) + " is odd!"}
 
 
-def pair_node(state: State):
-    return {"message": "The number is " + str(state["number"]) + " is pair!"}
+def even_node(state: State):
+    return {"message": "The number is " + str(state["number"]) + " is even!"}
 
 
-def pair_or_odd(state: State):
-    return "pair" if state["number"] % 2 == 0 else "odd"
-
-
-def default_node(state: State):
-    return state
+def even_or_odd(state: State):
+    return "even" if state["number"] % 2 == 0 else "odd"
 
 
 graph = StateGraph(State)
 
 graph.add_node("odd_node", odd_node)
-graph.add_node("pair_node", pair_node)
-graph.add_node("router", default_node)
-
-graph.add_edge(START, "router")
+graph.add_node("even_node", even_node)
 
 # Conditional
 graph.add_conditional_edges(
-    "router", pair_or_odd, {"pair": "pair_node", "odd": "odd_node"}
+    START, even_or_odd, {"even": "even_node", "odd": "odd_node"}
 )
 
-graph.add_edge("pair_node", END)
+graph.add_edge("even_node", END)
 graph.add_edge("odd_node", END)
 
 
