@@ -69,5 +69,4 @@ with open("alex_tumiri_huanca_cv.txt", "w") as file:
 
     file.write("End of Conversation")
 
-
 print("Conversation saved to memory")
