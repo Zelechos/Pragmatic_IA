@@ -6,7 +6,6 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-
 class AgentState(TypedDict):
     messages: List[HumanMessage]
 
