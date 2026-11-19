@@ -38,9 +38,11 @@ if os.path.exists("memory.txt"):
         conversation_history = []
         for line in file:
             if "You: " in line:
-                conversation_history.append(HumanMessage(content=line.strip("You: ")))
+                conversation_history.append(
+                    HumanMessage(content=line.strip("You: ")))
             elif "AI: " in line:
-                conversation_history.append(AIMessage(content=line.strip("AI: ")))
+                conversation_history.append(
+                    AIMessage(content=line.strip("AI: ")))
 
 user_input = input("You : ")
 while user_input != "exit":

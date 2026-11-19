@@ -1,0 +1,241 @@
+Your conversation history: 
+You: Name: ALEX TUMIRI HUANCA
+
+You: B.Sc. in Computer Science
+
+You: CONTACT
+
+You: Email: alextumirihuanca@gmail.com
+
+You: GitHub: @zelechos
+
+You: 
+
+You: SOFT SKILLS
+
+You: - Problem resolution.
+
+You: - Work as a team and collaboration.
+
+You: - Creativity and efficiency.
+
+You: - Adaptability and emotional intelligence.
+
+You: 
+
+You: TECHNICAL SKILLS
+
+You: - AWS (Amazon Web Services)
+
+You: - Java SE, Java FX, Java ME, Jakarta EE
+
+You: - JUnit, Mockito, WireMock, MockMVC
+
+You: - JHipster, Quarkus
+
+You: - Spring Boot, Spring Security, Spring Data, WebFlux, Cloud, MVC, Batch, Integration, Social
+
+You: - JPA, Oracle, JDBC, Hibernate
+
+You: - Python
+
+You: - PyTorch, TensorFlow
+
+You: - OpenCV, Keras, NumPy
+
+You: - Azure (OpenAI, Cognitive Services, ML, CosmosDB, Logic Apps, Functions, DevOps)
+
+You: - LLM models (Hugging Face)
+
+You: - LangChain (LangGraph, LangSmith)
+
+You: - Kafka, RabbitMQ
+
+You: - ReactJS, Angular
+
+You: - Serverless
+
+You: - NodeJS, NPM
+
+You: - Git, Bitbucket, GitHub, GitLab
+
+You: - MySQL, MongoDB, Cosmos DB (NoSQL), GraphQL, Teradata
+
+You: - Docker
+
+You: - Metabase
+
+You: 
+
+You: PROFESSIONAL EXPERIENCE
+
+You: 
+
+You: Startup Grupo Kreo — Backend Developer
+
+You: Location: Bolivia
+
+You: Period: 2019–2020
+
+You: - Developing an API for a human resources platform and a digital wallet.
+
+You: Technologies: Java, AWS, Serverless, NodeJS, TypeScript, ReactJS, Python, DynamoDB, S3, CloudFormation, Docker, Spring, Trello, GitLab.
+
+You: 
+
+You: Bloom Crowdfunding — Backend Developer
+
+You: Location: Colombia
+
+You: Period: 2020–2022
+
+You: - Developing the SDK for the creation of APIs connecting JDK with AWS; also developing an API for the crowdfunding platform.
+
+You: Technologies: Java, Spring, TypeScript, NodeJS, Angular, AWS, Serverless, Python, PyTorch, Azure OpenAI, Azure Cognitive Services, MetaMap API, Bloom SDK, Trello, Microsoft Teams, GitHub.
+
+You: 
+
+You: Encora — Backend Developer
+
+You: Location: Bolivia
+
+You: Period: 2022–2023
+
+You: - Developing and maintaining different APIs in production for an e-commerce sales platform.
+
+You: Technologies: Java SE, Spring, Angular, AWS, Serverless, NodeJS, Docker, TypeScript, JavaScript, Jira, Confluence, Bitbucket.
+
+You: 
+
+You: Niubiz — Backend Developer
+
+You: Location: Peru
+
+You: Period: 2023–2024
+
+You: - Developing and maintaining an API for a bank transaction ingestion engine, reconciliation of bank transaction records, and reporting for companies working with banking.
+
+You: Technologies: Java, Spring, Angular, TypeScript, AWS, Serverless, NodeJS, SQL, EC2, ECR, Secret Manager, Docker, Bitbucket, Python.
+
+You: 
+
+You: JITKey — AI Developer
+
+You: Location: Spain
+
+You: Period: 2024–2025
+
+You: - Development of platforms (BackOffice, Pricing), an API for the pricing platform and pricing algorithm, and an AI model for price predictions.
+
+You: Technologies: Java, Spring, Quarkus, TypeScript, Angular, JHipster, NodeJS, AWS, Serverless, Metabase, Trello, Slack, Bitbucket, LangChain (LangGraph, LangSmith).
+
+You: 
+
+You: Prisma — AI Engineer
+
+You: Location: Argentina
+
+You: Period: 2025–2026
+
+You: - Developing and refactoring encryption libraries and APIs for the payment method platform.
+
+You: Technologies: Java, Spring, Quarkus, LLM models (Hugging Face), LangChain, TypeScript, Angular, AWS, MySQL, Trello, Slack, GitLab, Azure (OpenAI, Cognitive Services, ML, CosmosDB, Logic Apps, Functions, DevOps).
+
+You: 
+
+You: EDUCATION
+
+You: 
+
+You: 2024 — B.Sc. in Computer Science
+
+You: Universidad San Francisco Xavier de Chuquisaca (USFX), Bolivia
+
+You: 
+
+You: 2026–2027 — M.Sc. in Artificial Intelligence (in progress)
+
+You: Universidad Internacional de La Rioja (UNIR), Spain
+
+You: 
+
+You: LANGUAGES
+
+You: - Spanish: Native language
+
+You: - English: Intermediate
+
+You: hola quiero saber cual es el nombre completo de Alex
+AI: El nombre completo que proporcionaste es "Alex Tumiri Huanca".
+
+You: y quiero saber que softs skills tiene
+AI: Alex Tumiri Huanca tiene las siguientes habilidades blandas (soft skills):
+
+- Resolución de problemas.
+- Trabajo en equipo y colaboración.
+- Creatividad y eficiencia.
+- Adaptabilidad e inteligencia emocional.
+
+You: que herramientas maneja
+AI: Alex Tumiri Huanca maneja las siguientes herramientas técnicas y tecnologías:
+
+- **Cloud Services:** AWS (Amazon Web Services), Azure (OpenAI, Cognitive Services, ML, CosmosDB, Logic Apps, Functions, DevOps)
+- **Programming Languages:** Java (SE, FX, ME, Jakarta EE), Python
+- **Frameworks and Libraries:** Spring Boot, Spring Security, Spring Data, WebFlux, Cloud, MVC, Batch, Integration, Social, JHipster, Quarkus, PyTorch, TensorFlow, OpenCV, Keras, NumPy
+- **Testing Tools:** JUnit, Mockito, WireMock, MockMVC
+- **Data and Databases:** JPA, Oracle, JDBC, Hibernate, MySQL, MongoDB, Cosmos DB (NoSQL), Teradata, GraphQL
+- **Messaging and Streaming Platforms:** Kafka, RabbitMQ
+- **Web Technologies:** ReactJS, Angular, NodeJS, NPM
+- **Version Control and Collaboration Tools:** Git, Bitbucket, GitHub, GitLab
+- **Deployment Tools:** Docker, Serverless
+- **Other Technologies:** Metabase, LLM models (Hugging Face), LangChain (LangGraph, LangSmith)
+
+You: no sabe JavaScript?
+AI: Sí, Alex Tumiri Huanca también tiene experiencia en JavaScript, tal como se menciona en su experiencia profesional donde ha trabajado con tecnologías relacionadas como NodeJS y frameworks como Angular y ReactJS, los cuales utilizan JavaScript como lenguaje base.
+
+You: cuales fueron sus puestos y en que fechas
+AI: Alex Tumiri Huanca ha ocupado los siguientes puestos a lo largo de su carrera profesional:
+
+1. **Backend Developer en Startup Grupo Kreo**
+   - Ubicación: Bolivia
+   - Periodo: 2019–2020
+
+2. **Backend Developer en Bloom Crowdfunding**
+   - Ubicación: Colombia
+   - Periodo: 2020–2022
+
+3. **Backend Developer en Encora**
+   - Ubicación: Bolivia
+   - Periodo: 2022–2023
+
+4. **Backend Developer en Niubiz**
+   - Ubicación: Perú
+   - Periodo: 2023–2024
+
+5. **AI Developer en JITKey**
+   - Ubicación: España
+   - Periodo: 2024–2025
+
+6. **AI Engineer en Prisma**
+   - Ubicación: Argentina
+   - Periodo: 2025–2026
+
+You: y cual es su correo
+AI: El correo de Alex Tumiri Huanca es alextumirihuanca@gmail.com.
+
+You: y su github
+AI: El GitHub de Alex Tumiri Huanca es @zelechos.
+
+You: que nivel de estudio cuenta 
+AI: Alex Tumiri Huanca cuenta con el siguiente nivel de estudio:
+
+- **B.Sc. en Ciencias de la Computación** (Bachelor of Science in Computer Science) por la Universidad San Francisco Xavier de Chuquisaca (USFX), Bolivia, obtenido en 2024.
+- **M.Sc. en Inteligencia Artificial** (in progress) por la Universidad Internacional de La Rioja (UNIR), España, programado para 2026–2027.
+
+You: cuales son los leguajes que habla\
+AI: Alex Tumiri Huanca habla los siguientes idiomas:
+
+- **Español:** Lengua nativa
+- **Inglés:** Intermedio
+
+End of Conversation
